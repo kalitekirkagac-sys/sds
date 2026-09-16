@@ -1,0 +1,25 @@
+{
+ "name": "SDS Saha Değerlendirme",
+ "short_name": "SDS Saha",
+ "description": "SDS Hastane Saha Denetim Çizelgesi — 29 Standart / 276 Puan (çevrimdışı)",
+ "lang": "tr",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#eef2f7",
+ "theme_color": "#1F4E79",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
